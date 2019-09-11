@@ -472,13 +472,13 @@ ul {
   background-size: cover;
 }
 .img-1 {
-  background-image: url(../images/home-img/background.jpeg);
+  background-image: url(../images/home-img/background.jpg);
 }
 .img-2 {
-  background-image: url(../images/home-img/background.jpeg);
+  background-image: url(../images/home-img/background.jpg);
 }
 .img-3 {
-  background-image: url(../images/home-img/background.jpeg);
+  background-image: url(../images/home-img/background.jpg);
 }
 .swiper-pagination-bullet-active {
   opacity: 1;
