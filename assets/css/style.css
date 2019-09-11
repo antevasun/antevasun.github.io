@@ -472,13 +472,13 @@ ul {
   background-size: cover;
 }
 .img-1 {
-  background-image: url(../images/home-img/1.jpg);
+  background-image: url(../images/home-img/background.jpeg);
 }
 .img-2 {
-  background-image: url(../images/home-img/2.jpg);
+  background-image: url(../images/home-img/background.jpeg);
 }
 .img-3 {
-  background-image: url(../images/home-img/3.jpg);
+  background-image: url(../images/home-img/background.jpeg);
 }
 .swiper-pagination-bullet-active {
   opacity: 1;
@@ -627,7 +627,7 @@ img.mobile-profile-img {
   position: absolute;
 }
 .profile-img {
-  background: url(../images/about/background.jpeg) center;
+  background: url(../images/about/profile.jpg) center;
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
